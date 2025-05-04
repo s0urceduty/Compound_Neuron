@@ -1,4 +1,4 @@
-### Combining multiple simple nodes into a single, more complex unit with enhanced capabilities.
+#### Combining multiple simple nodes into a single, more complex unit with enhanced capabilities.
 
 ![Compound Neuron Model](https://github.com/user-attachments/assets/19729ba9-faa3-44e3-babf-abab65607aaa)
 
